@@ -1,16 +1,16 @@
-## Hi there 👋
+</div> <div align="center">
 
-<!--
-**solarpizu/solarpizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="409" height="435" alt="Untitled296_20260531144551" src="https://github.com/user-attachments/assets/02eb0da9-a380-4dd7-a611-870ebc00bb46" />
 
-Here are some ideas to get you started:
+<details>
+<summary>𝖺𝖻𝓸𝓾𝓽 𝓶𝖾</summary>
+im pizu or solar idc, I go by he / him , i love pantalone — ᨳଓ .
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+<summary>d𝓷𝓲</summary>
+Basic DNI criteria, just don't be weird! thank you — ᨳଓ .
+</details>
+
+wip
