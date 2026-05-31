@@ -1,6 +1,6 @@
 </div> <div align="center">
 
-
+ ![GitHub Views](https://komarev.com/ghpvc/?username=solarpizu&amp;color=ffffff&amp;style=flat&amp;label=stars)
 
 <img width="409" height="435" alt="Untitled296_20260531144551" src="https://github.com/user-attachments/assets/02eb0da9-a380-4dd7-a611-870ebc00bb46" />
 
