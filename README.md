@@ -8,7 +8,7 @@
 
 <details>
 <summary>𝙖𝙗𝙤𝙪𝙩 𝙢𝙚 </summary>
-im pizu or solar idc, I go by he / him , i love pantalone, 
+im pizu or solar idc, I go by he / him , I love pantalone, 
  
  int if you like genshin, honkai, crk pls— ᨳଓ .
 </details>
